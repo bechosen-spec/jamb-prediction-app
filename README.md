@@ -25,7 +25,6 @@ This **Streamlit web app** predicts the number of candidates seeking admission i
 ```
 jamb-prediction-app/
 ├── app.py                  # Main Streamlit app script
-├── pipeline.py             # Defines the PredictionPipeline class (optional if applicable)
 ├── prediction_pipeline.pkl # Pretrained machine learning pipeline
 ├── banner.png              # Banner image
 ├── footer.png              # Footer image
